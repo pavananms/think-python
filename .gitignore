@@ -1,0 +1,5 @@
+#no pyc's..bunch of useless crap
+*.pyc
+#unfortunately I have to keep pdf of thinkpython here .so...
+*.pdf
+
